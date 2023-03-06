@@ -18,11 +18,13 @@
   },
   "homepage": "https://github.com/lemartinp/store-back#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "crypto-js": "^4.1.1",
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.0",
     "mongoose": "^7.0.0",
-    "nodemon": "^2.0.21"
+    "nodemon": "^2.0.21",
+    "stripe": "^11.13.0"
   }
 }
